@@ -1,0 +1,1 @@
+test01 requested to join group newGroup
